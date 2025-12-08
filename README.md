@@ -4,6 +4,7 @@
 # Python + Flask app on AWS
 Learn to deploy a Python+Flask application on AWS.
 
+![image alt](ss/Deployed(Web Browser).png)
 
 
 
